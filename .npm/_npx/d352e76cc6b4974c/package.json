@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "create-playwright": "^1.17.139"
+  },
+  "_npx": {
+    "packages": [
+      "create-playwright@latest"
+    ]
+  }
+}

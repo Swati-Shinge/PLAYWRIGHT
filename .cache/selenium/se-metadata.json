@@ -1,0 +1,22 @@
+{
+  "browsers": [],
+  "drivers": [
+    {
+      "major_browser_version": "145",
+      "driver_name": "chromedriver",
+      "driver_version": "145.0.7632.77",
+      "driver_ttl": 1771851596
+    }
+  ],
+  "stats": [
+    {
+      "browser": "chrome",
+      "browser_version": "",
+      "os": "macos",
+      "arch": "arm64",
+      "lang": "java",
+      "selenium_version": "4.38",
+      "stats_ttl": 1771851594
+    }
+  ]
+}
